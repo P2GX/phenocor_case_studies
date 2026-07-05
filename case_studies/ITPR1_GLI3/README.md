@@ -1,0 +1,8 @@
+# ITPR1 vs GLI3
+
+- validation case for testing 
+- single-gene cohorts that each split into two distinct diseases (ITPR1: Gillespie syndrome [OMIM:206700](https://omim.org/entry/206700) vs the spinocerebellar ataxias SCA15/SCA29; GLI3: Greig cephalopolysyndactyly [OMIM:175700](https://omim.org/entry/175700) vs Pallister-Hall [OMIM:146510](https://omim.org/entry/146510)), and both scored high in the global correlation scan (ITPR1 38, GLI3 20 FDR-significant pairs). We merged them as a contrast case: two developmentally relevant genes with minimal phenotypic overlap, to check that phenosign recovers the boundary between unrelated syndromes rather than co-occurrence within one.
+
+**Results.** 57 FDR-significant correlated pairs (r from -0.87 to 1.0). The structure separates into two anti-correlated axes. A neurodevelopmental-milestone cluster (delayed sitting / crawling / walking, global developmental delay, motor delay) and a GLI3 skeletal cluster (Y-shaped metacarpals x Y-shaped metatarsals at r = 1.0, finger and toe cutaneous syndactyly) sit on the positive side, while cerebellar and pyramidal ITPR1 features (abnormal pyramidal sign, limb dysmetria) anti-correlate with the developmental-delay terms (r down to -0.87). The correlation matrix alone reproduces the gene boundary.
+
+- validation case, not a discovery cohort. Because the two syndromes have almost no phenotypic overlap, synergy against gene membership would mostly recover the same split, so we did not develop it further. It confirms that phenosign cleanly separates unrelated syndromes, which is the reassurance we wanted before trusting the LMNA subtype results.
