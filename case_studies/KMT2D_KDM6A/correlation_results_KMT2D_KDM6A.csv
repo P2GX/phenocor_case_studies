@@ -1,2 +1,0 @@
-HPO_A,HPO_A_label,HPO_B,HPO_B_label,correlation,p_value,adj_p_value,n(A:E/B:E),n(A:E/B:O),n(A:O/B:E),n(A:O/B:O),n_individuals,n_pmids,pmids
-HP:0000750,Delayed speech and language development,HP:0001270,Motor delay,0.6798029556650246,5.0445958359446864e-05,0.030267575015668118,5,2,2,56,65,4,31949313;32083401;33674768;35060672
