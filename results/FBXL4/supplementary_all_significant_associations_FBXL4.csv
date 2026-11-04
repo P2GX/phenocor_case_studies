@@ -1,0 +1,41 @@
+Phenotype A,Phenotype B,Phi,Total,State counts (O/O; O/E; E/O; E/E),FDR-adjusted P (Fisher's exact P),PMIDs (n)
+Optic atrophy (HP:0000648),Reduced visual acuity (HP:0007663),1.00,51,7; 0; 0; 44,"9.65×10⁻⁶
+(8.64×10⁻⁹)",3
+Smooth philtrum (HP:0000319),Short palpebral fissure (HP:0012745),0.80,68,7; 2; 1; 58,"1.02×10⁻⁴
+(2.89×10⁻⁷)",8
+Failure to thrive (HP:0001508),Short stature (HP:0004322),0.72,49,23; 5; 2; 19,"1.02×10⁻⁴
+(3.66×10⁻⁷)",4
+Low-set ears (HP:0000369),Wide nasal bridge (HP:0000431),0.72,65,10; 4; 2; 49,"1.02×10⁻⁴
+(3.21×10⁻⁷)",5
+Microcephaly (HP:0000252),Short stature (HP:0004322),0.71,49,20; 3; 4; 22,"1.10×10⁻⁴
+(4.90×10⁻⁷)",4
+Wide nasal bridge (HP:0000431),Thick eyebrow (HP:0000574),0.61,67,8; 6; 2; 51,"0.003
+(1.71×10⁻⁵)",7
+Smooth philtrum (HP:0000319),Prominent forehead (HP:0011220),0.60,67,7; 1; 7; 52,"0.005
+(2.83×10⁻⁵)",7
+Long philtrum (HP:0000343),Low-set ears (HP:0000369),0.53,66,8; 3; 7; 48,"0.018
+(1.31×10⁻⁴)",6
+Nystagmus (HP:0000639),Short palpebral fissure (HP:0012745),0.68,48,5; 3; 1; 39,"0.018
+(1.85×10⁻⁴)",5
+Prominent forehead (HP:0011220),Short palpebral fissure (HP:0012745),0.54,67,6; 8; 1; 52,"0.018
+(1.87×10⁻⁴)",7
+Wide nasal bridge (HP:0000431),Short palpebral fissure (HP:0012745),0.54,67,6; 8; 1; 52,"0.018
+(1.87×10⁻⁴)",7
+Low-set ears (HP:0000369),Prominent forehead (HP:0011220),0.52,65,8; 6; 4; 47,"0.018
+(1.97×10⁻⁴)",5
+Decreased activity of mitochondrial complex II (HP:0008314),Decreased activity of mitochondrial complex III (HP:0011924),0.64,35,10; 2; 4; 19,"0.022
+(2.61×10⁻⁴)",4
+Smooth philtrum (HP:0000319),Thick eyebrow (HP:0000574),0.54,68,6; 3; 5; 54,"0.023
+(2.85×10⁻⁴)",8
+Thick eyebrow (HP:0000574),Short palpebral fissure (HP:0012745),0.54,67,5; 5; 2; 55,"0.035
+(4.76×10⁻⁴)",7
+Ptosis (HP:0000508),Decreased total neutrophil count (HP:0001875),0.57,62,4; 0; 7; 51,"0.041
+(5.92×10⁻⁴)",4
+Epicanthus (HP:0000286),Long eyelashes (HP:0000527),0.53,65,5; 4; 3; 53,"0.047
+(7.18×10⁻⁴)",5
+Failure to thrive (HP:0001508),Feeding difficulties (HP:0011968),0.52,45,23; 2; 9; 11,"0.047
+(8.06×10⁻⁴)",5
+Epicanthus (HP:0000286),Wide nasal bridge (HP:0000431),0.47,67,7; 4; 7; 49,"0.047
+(8.39×10⁻⁴)",7
+Wide nasal bridge (HP:0000431),Prominent forehead (HP:0011220),0.46,67,8; 6; 6; 47,"0.047
+(7.66×10⁻⁴)",7

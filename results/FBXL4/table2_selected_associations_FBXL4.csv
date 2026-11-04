@@ -1,0 +1,19 @@
+Phenotype A,Phenotype B,Phi,Total,State counts (O/O; O/E; E/O; E/E),FDR-adjusted P (Fisher's exact P),PMIDs (n)
+Optic atrophy (HP:0000648),Reduced visual acuity (HP:0007663),1.00,51,7; 0; 0; 44,"9.65×10⁻⁶
+(8.64×10⁻⁹)",3
+Smooth philtrum (HP:0000319),Short palpebral fissure (HP:0012745),0.80,68,7; 2; 1; 58,"1.02×10⁻⁴
+(2.89×10⁻⁷)",8
+Failure to thrive (HP:0001508),Short stature (HP:0004322),0.72,49,23; 5; 2; 19,"1.02×10⁻⁴
+(3.66×10⁻⁷)",4
+Low-set ears (HP:0000369),Wide nasal bridge (HP:0000431),0.72,65,10; 4; 2; 49,"1.02×10⁻⁴
+(3.21×10⁻⁷)",5
+Microcephaly (HP:0000252),Short stature (HP:0004322),0.71,49,20; 3; 4; 22,"1.10×10⁻⁴
+(4.90×10⁻⁷)",4
+Nystagmus (HP:0000639),Short palpebral fissure (HP:0012745),0.68,48,5; 3; 1; 39,"0.018
+(1.85×10⁻⁴)",5
+Decreased activity of mitochondrial complex II (HP:0008314),Decreased activity of mitochondrial complex III (HP:0011924),0.64,35,10; 2; 4; 19,"0.022
+(2.61×10⁻⁴)",4
+Wide nasal bridge (HP:0000431),Thick eyebrow (HP:0000574),0.61,67,8; 6; 2; 51,"0.003
+(1.71×10⁻⁵)",7
+Smooth philtrum (HP:0000319),Prominent forehead (HP:0011220),0.60,67,7; 1; 7; 52,"0.005
+(2.83×10⁻⁵)",7

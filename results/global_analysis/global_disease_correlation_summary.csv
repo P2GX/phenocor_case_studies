@@ -1,0 +1,17 @@
+metric,value
+Phenopacket Store version,0.1.27
+HPO release,v2026-06-23
+Minimum disease-group size,20
+Minimum pair-specific effective N,20
+FDR threshold,0.05
+Total disease groups,781
+Disease groups below size threshold,664
+Eligible disease groups,117
+Eligible groups without testable pairs,12
+Disease groups with tested pairs,105
+Disease groups with significant correlations,39
+Tested groups without significant correlations,66
+Total tested phenotype pairs,66169
+Total significant phenotype pairs,212
+Positive significant correlations,195
+Negative significant correlations,17

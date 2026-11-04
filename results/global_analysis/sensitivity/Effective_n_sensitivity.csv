@@ -1,0 +1,4 @@
+effective_n_threshold,eligible_disease_groups,disease_groups_with_tested_pairs,disease_groups_with_significant_pairs,tested_pairs,significant_pairs,positive_significant_pairs,negative_significant_pairs,primary_significant_pairs,primary_significant_pairs_testable,primary_significant_pairs_not_testable,retained_primary_significant_pairs,retention_among_testable_primary_pairs
+10,117,116,38,100418,208,192,16,212,212,0,167,0.7877358490566038
+20,117,105,39,66169,212,195,17,212,212,0,212,1.0
+30,117,59,31,47158,170,154,16,212,157,55,157,1.0

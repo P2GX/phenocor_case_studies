@@ -1,0 +1,55 @@
+Phenotype A,Phenotype B,Phi,Total,State counts (O/O; O/E; E/O; E/E),FDR-adjusted P (Fisher's exact P),PMIDs (n)
+Axillary freckling (HP:0000997),Inguinal freckling (HP:0030052),0.67,236,86; 35; 6; 109,"2.16×10⁻²⁵
+(5.25×10⁻²⁸)",8
+Neurofibroma (HP:0001067),Lisch nodules (HP:0009737),0.50,271,62; 42; 21; 146,"1.31×10⁻¹³
+(6.36×10⁻¹⁶)",8
+Plexiform neurofibroma (HP:0009732),Spinal neurofibroma (HP:0009735),0.73,276,13; 5; 4; 254,"4.01×10⁻¹³
+(2.92×10⁻¹⁵)",5
+Axillary freckling (HP:0000997),Neurofibroma (HP:0001067),0.39,237,77; 46; 27; 87,"1.32×10⁻⁷
+(1.28×10⁻⁹)",9
+Neurofibroma (HP:0001067),Inguinal freckling (HP:0030052),0.36,233,60; 40; 32; 101,"2.81×10⁻⁶
+(4.10×10⁻⁸)",8
+Neurofibroma (HP:0001067),Scoliosis (HP:0002650),0.30,351,39; 91; 16; 205,"2.81×10⁻⁶
+(3.48×10⁻⁸)",9
+Freckling (HP:0001480),Multiple cafe-au-lait spots (HP:0007565),0.30,317,205; 14; 70; 28,"2.00×10⁻⁵
+(3.39×10⁻⁷)",8
+Pectus carinatum (HP:0000768),Scoliosis (HP:0002650),0.42,252,7; 2; 20; 223,"1.21×10⁻⁴
+(2.34×10⁻⁶)",3
+Axillary freckling (HP:0000997),Multiple cafe-au-lait spots (HP:0007565),0.30,234,118; 7; 79; 30,"1.88×10⁻⁴
+(4.10×10⁻⁶)",8
+Neurofibroma (HP:0001067),Freckling (HP:0001480),0.22,375,126; 23; 146; 80,"7.68×10⁻⁴
+(1.87×10⁻⁵)",9
+Pectus excavatum (HP:0000767),Scoliosis (HP:0002650),0.31,297,10; 10; 27; 250,"7.73×10⁻⁴
+(2.06×10⁻⁵)",8
+Glioma (HP:0009733),Inguinal freckling (HP:0030052),0.29,217,26; 10; 61; 120,"9.09×10⁻⁴
+(2.65×10⁻⁵)",7
+Pectus excavatum (HP:0000767),Lipoma (HP:0012032),0.38,292,5; 17; 2; 268,"9.27×10⁻⁴
+(2.92×10⁻⁵)",7
+Optic nerve glioma (HP:0009734),Inguinal freckling (HP:0030052),0.29,219,23; 8; 64; 124,"0.001
+(4.13×10⁻⁵)",7
+Axillary freckling (HP:0000997),Glioma (HP:0009733),0.27,221,30; 87; 6; 98,"0.001
+(4.75×10⁻⁵)",8
+Plexiform neurofibroma (HP:0009732),Lisch nodules (HP:0009737),0.27,255,24; 18; 51; 162,"0.002
+(5.91×10⁻⁵)",8
+Neurofibroma (HP:0001067),Glioma (HP:0009733),0.23,302,29; 88; 15; 170,"0.002
+(9.46×10⁻⁵)",8
+Axillary freckling (HP:0000997),Optic nerve glioma (HP:0009734),0.25,224,26; 91; 5; 102,"0.004
+(1.55×10⁻⁴)",8
+Scoliosis (HP:0002650),Lisch nodules (HP:0009737),0.26,248,22; 18; 49; 159,"0.004
+(1.86×10⁻⁴)",8
+Pectus excavatum (HP:0000767),Pectus carinatum (HP:0000768),0.32,272,5; 10; 8; 249,"0.005
+(2.50×10⁻⁴)",3
+Lisch nodules (HP:0009737),Inguinal freckling (HP:0030052),0.29,154,29; 17; 34; 74,"0.007
+(3.41×10⁻⁴)",7
+Axillary freckling (HP:0000997),Plexiform neurofibroma (HP:0009732),0.23,231,35; 82; 13; 101,"0.011
+(6.00×10⁻⁴)",9
+Scoliosis (HP:0002650),Spinal neurofibroma (HP:0009735),0.25,256,8; 21; 13; 214,"0.014
+(7.58×10⁻⁴)",5
+Axillary freckling (HP:0000997),Lisch nodules (HP:0009737),0.27,158,36; 48; 13; 61,"0.016
+(9.52×10⁻⁴)",8
+Multiple cafe-au-lait spots (HP:0007565),Inguinal freckling (HP:0030052),0.21,229,86; 106; 6; 31,"0.016
+(9.33×10⁻⁴)",7
+Multiple cafe-au-lait spots (HP:0007565),Spinal neurofibroma (HP:0009735),-0.24,238,14; 191; 9; 24,"0.021
+(0.001)",4
+Freckling (HP:0001480),Glioma (HP:0009733),0.17,287,38; 156; 6; 87,"0.045
+(0.003)",8

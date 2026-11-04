@@ -1,2 +1,0 @@
-HPO_A,HPO_A_label,HPO_B,HPO_B_label,synergy,p_value,adj_p_value,n(A:E/B:E)_y0,n(A:E/B:O)_y0,n(A:O/B:E)_y0,n(A:O/B:O)_y0,N_y0,n(A:E/B:E)_y1,n(A:E/B:O)_y1,n(A:O/B:E)_y1,n(A:O/B:O)_y1,N_y1,n_individuals,n_pmids,pmids
-HP:0001162,Postaxial hand polydactyly,HP:0001841,Preaxial foot polydactyly,0.07785686773914584,0.006997667444185272,0.013359183302535518,2,22,21,15,60,4,0,0,0,4,64,3,18000979;22428873;24736735

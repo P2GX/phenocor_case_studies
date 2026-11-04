@@ -1,1 +1,0 @@
-HPO_A,HPO_A_label,HPO_B,HPO_B_label,synergy,p_value,adj_p_value,n(A:E/B:E)_y0,n(A:E/B:O)_y0,n(A:O/B:E)_y0,n(A:O/B:O)_y0,N_y0,n(A:E/B:E)_y1,n(A:E/B:O)_y1,n(A:O/B:E)_y1,n(A:O/B:O)_y1,N_y1,n_individuals,n_pmids,pmids
