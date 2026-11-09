@@ -1,118 +1,118 @@
 cohort,disease_id,disease_name,disease_group_size,n_hpo_terms,median_observed_terms_per_individual,median_excluded_terms_per_individual,median_explicit_terms_per_individual,tested_pairs,significant_pairs,positive_significant_pairs,negative_significant_pairs
-11q_terminal_deletion,OMIM:147791,Jacobsen syndrome,69,65,18.0,46.0,64.0,1769,2,1,1
-ACBD6,OMIM:620785,Neurodevelopmental disorder with progressive movement abnormalities,45,79,15.0,54.0,73.0,2520,4,4,0
-AFG3L2,OMIM:618977,Optic atrophy 12,26,39,4.5,15.0,19.5,121,0,0,0
-AHDC1,OMIM:615829,Xia-Gibbs syndrome,65,186,17.0,22.0,37.0,266,0,0,0
-AIRE,OMIM:240300,"Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia",58,48,6.0,9.5,16.5,70,0,0,0
-ANKRD11,OMIM:148050,KBG syndrome,333,48,7.0,6.0,12.0,895,9,9,0
-ASPM,OMIM:608716,"Microcephaly 5, primary, autosomal recessive",22,17,4.0,4.0,8.0,15,0,0,0
-ATP13A2,OMIM:606693,Kufor-Rakeb syndrome,35,67,10.0,2.0,13.0,19,0,0,0
-ATP6V0C,OMIM:620465,"Epilepsy, early-onset, 3, with or without developmental delay",31,83,9.0,43.0,58.0,184,0,0,0
-CHD8,OMIM:615032,Intellectual developmental disorder with autism and macrocephaly,78,82,8.0,18.0,30.0,499,0,0,0
-CLDN16,OMIM:248250,"Hypomagnesemia 3, renal",51,53,9.0,6.0,19.0,125,2,2,0
-CLN3,OMIM:621548,Retinitis pigmentosa 101,25,35,9.0,4.0,12.0,2,0,0,0
-CNTNAP2,OMIM:610042,Pitt-Hopkins like syndrome 1,46,70,8.0,31.0,41.0,187,0,0,0
-COL3A1,OMIM:130050,"Ehlers-Danlos syndrome, vascular type",35,27,6.0,13.0,19.0,169,3,3,0
-COQ4,OMIM:616276,"Coenzyme Q10 deficiency, primary, 7",35,77,8.0,6.0,16.0,2,0,0,0
-CTCF,OMIM:615502,"Intellectual developmental disorder, autosomal dominant 21",46,110,12.0,93.0,105.5,5395,0,0,0
-CYP21A2,OMIM:201910,"Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",69,27,6.0,5.0,11.0,46,0,0,0
-EHMT1,OMIM:610253,Kleefstra syndrome 1,125,61,9.0,44.0,54.0,1588,7,6,1
-EPG5,OMIM:621506,Neurodevelopmental disorder with parkinsonism or other movement abnormalities,22,76,15.0,19.0,34.0,5,2,2,0
-FBN1,OMIM:129600,"Ectopia lentis, familial",44,18,3.0,12.0,15.0,82,1,1,0
-FBN1,OMIM:154700,Marfan syndrome,50,43,8.0,16.0,26.0,301,1,1,0
-FBXL4,OMIM:615471,Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type),95,90,9.0,23.0,36.0,1117,20,20,0
-FBXO11,OMIM:618089,Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities,56,129,8.0,78.0,86.0,5295,0,0,0
-FDXR,OMIM:620887,Multiple mitochondrial dysfunctions syndrome 9B,41,193,13.0,4.0,18.0,1,0,0,0
-FGD1,OMIM:305400,Aarskog-Scott syndrome,48,73,14.5,9.0,24.5,164,1,1,0
-FLVCR1,OMIM:621060,"Neurodevelopmental disorder with microcephaly, absent speech, and hypotonia",30,65,6.0,8.5,15.0,78,0,0,0
-FZD5,OMIM:620731,Microphthalmia/coloboma 11,29,16,2.0,6.0,8.0,3,0,0,0
-GLI3,OMIM:146510,Pallister-Hall syndrome,21,12,5.0,4.0,10.0,1,1,0,1
-GLI3,OMIM:175700,Greig cephalopolysyndactyly syndrome,50,24,4.0,8.0,11.5,21,5,2,3
 GNAS,OMIM:103580,Pseudohypoparathyroidism Ia,80,12,5.0,6.0,12.0,63,5,4,1
-GNAS,OMIM:612463,Pseudopseudohypoparathyroidism,23,9,2.0,5.0,7.0,10,0,0,0
-GTPBP2,OMIM:617988,Jaberi-Elahi syndrome,25,134,29.0,10.0,39.0,7,1,1,0
-HMGCS2,OMIM:605911,HMG-CoA synthase-2 deficiency,40,44,8.5,2.5,15.5,17,0,0,0
-IFT140,OMIM:621164,"Polycystic kidney disease 9, susceptibility to",75,15,3.0,5.0,8.0,24,2,1,1
-IKZF1,OMIM:616873,"Immunodeficiency, common variable, 13",81,67,9.0,12.0,23.0,289,1,1,0
-INPP4A,OMIM:621354,"Neurodevelopmental disorder with growth impairment, quadriparesis, and poor or absent speech",30,128,18.0,20.0,43.5,102,17,17,0
-ITPR1,OMIM:117360,"Spinocerebellar ataxia 29, congenital nonprogressive",104,151,11.0,8.5,20.0,131,1,1,0
-ITPR1,OMIM:206700,Gillespie syndrome,39,92,10.0,3.0,15.0,2,0,0,0
-ITPR1,OMIM:606658,Spinocerebellar ataxia 15,27,40,11.0,9.0,22.0,6,0,0,0
-KCNH5,OMIM:620537,Developmental and epileptic encephalopathy 112,27,28,6.0,11.0,19.0,67,0,0,0
-KDM6A,OMIM:300867,Kabuki syndrome 2,81,87,11.0,15.0,25.0,367,0,0,0
-KDM6B,OMIM:618505,Stolerman neurodevelopmental syndrome,84,225,11.0,31.0,42.0,585,0,0,0
-KMT2D,OMIM:147920,Kabuki Syndrome 1,64,154,14.0,17.0,34.0,182,0,0,0
-LIM2,OMIM:615277,"Cataract 19, multiple types",34,21,5.0,2.0,8.0,0,0,0,0
 LMNA,OMIM:115200,"Cardiomyopathy, dilated, 1A",61,31,3.0,14.0,17.0,118,3,2,1
-LMNA,OMIM:151660,"Lipodystrophy, familial partial, type 2",127,60,9.0,8.0,16.0,91,6,5,1
-LMNA,OMIM:181350,"Emery-Dreifuss muscular dystrophy 2, autosomal dominant",41,40,12.0,21.0,33.0,461,0,0,0
-LRRC7,OMIM:621415,"Intellectual developmental disorder, autosomal dominant 77",31,159,13.0,25.0,40.0,0,0,0,0
-LZTR1,OMIM:605275,Noonan syndrome 2,32,94,11.5,25.0,38.5,511,0,0,0
-MAPK8IP3,OMIM:618443,Neurodevelopmental disorder with or without variable brain abnormalities,20,93,10.5,45.5,57.0,0,0,0,0
-MARK2,OMIM:621285,"Intellectual developmental disorder, autosomal dominant 76",31,82,8.0,38.0,45.0,757,0,0,0
-MAU2,OMIM:621570,Cornelia de Lange syndrome 7,20,132,19.5,59.0,82.0,1,0,0,0
-MED16,OMIM:621220,Guillouet-Gordon syndrome,25,190,20.0,63.0,88.0,381,0,0,0
-MPV17,OMIM:256810,Mitochondrial DNA depletion syndrome 6 (hepatocerebral type),60,156,11.5,9.5,25.0,123,6,6,0
-MSL2,OMIM:620985,Karayol-Borroto-Haghshenas neurodevelopmental syndrome,28,122,10.0,33.5,44.0,526,1,1,0
-NBAS,OMIM:614800,"Short stature, optic nerve atrophy, and Pelger-Huet anomaly",67,134,10.0,9.0,23.0,409,14,14,0
-NEK8,OMIM:620903,Polycystic kidney disease 8,20,13,5.0,2.0,7.0,3,2,1,1
-NF1,OMIM:162200,"Neurofibromatosis, type 1",405,36,3.0,17.0,20.0,412,27,26,1
-NFU1,OMIM:620938,"Spastic paraplegia 93, autosomal recessive",21,43,8.0,11.0,18.0,6,0,0,0
-NHLRC1,OMIM:620681,Myoclonic epilepsy of Lafora 2,22,11,5.0,4.0,10.0,15,1,1,0
+ITPR1,OMIM:117360,"Spinocerebellar ataxia 29, congenital nonprogressive",104,151,11.0,8.5,20.0,131,1,1,0
 NIPBL,OMIM:122470,Cornelia de Lange syndrome 1,60,90,18.5,19.5,35.5,795,0,0,0
-NKX6-2,OMIM:617560,"Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy",33,39,8.0,5.0,13.0,3,0,0,0
-NOTCH3,OMIM:621295,"Cerebral arteriopathy, autosomal recessive, with subcortical infarcts and leukoencephalopathy 1",27,150,12.0,34.0,49.0,7,0,0,0
-NRXN1,OMIM:614332,Chromosome 2p16.3 deletion syndrome,27,106,7.0,50.0,57.0,897,0,0,0
-PIGA,OMIM:300868,Multiple congenital anomalies-hypotonia-seizures syndrome 2,21,174,16.0,0.0,16.0,0,0,0,0
-POGZ,OMIM:616364,White-Sutton syndrome,117,94,8.0,2.0,10.0,109,6,6,0
-PPP2R1A,OMIM:616362,Houge-Janssens syndrome 2,60,50,7.0,14.5,22.5,289,1,0,1
-PPP2R5C,OMIM:621185,Houge-Janssens syndrome 4,27,115,11.0,57.0,71.0,944,0,0,0
-PSMC3,OMIM:621539,Ebstein-Bezieau neurodevelopmental syndrome,23,10,5.0,3.0,10.0,0,0,0,0
-PTBP1,OMIM:621495,STAD syndrome,27,145,12.0,52.0,65.0,1550,0,0,0
+FBN1,OMIM:129600,"Ectopia lentis, familial",44,18,3.0,12.0,15.0,82,1,1,0
+COL3A1,OMIM:130050,"Ehlers-Danlos syndrome, vascular type",35,27,6.0,13.0,19.0,169,3,3,0
+TBX5,OMIM:142900,Holt-Oram syndrome,150,89,4.0,12.0,17.0,179,2,2,0
+GLI3,OMIM:146510,Pallister-Hall syndrome,21,12,5.0,4.0,10.0,1,1,0,1
+11q_terminal_deletion,OMIM:147791,Jacobsen syndrome,69,65,18.0,46.0,64.0,1769,2,1,1
+KMT2D,OMIM:147920,Kabuki Syndrome 1,64,154,14.0,17.0,34.0,182,0,0,0
+ANKRD11,OMIM:148050,KBG syndrome,333,48,7.0,6.0,12.0,895,9,9,0
 PTPN11,OMIM:151100,LEOPARD syndrome 1,31,39,5.0,6.0,11.0,3,0,0,0
-PTPN11,OMIM:163950,Noonan syndrome 1,25,46,7.0,16.0,25.0,24,0,0,0
-RAB32,OMIM:620923,"Parkinson disease 26, autosomal dominant, susceptibility to",38,41,5.0,0.0,6.0,0,0,0,0
-RAB3A,OMIM:621535,Spinocerebellar ataxia 52,33,68,10.0,12.0,22.0,7,0,0,0
-RCC1,OMIM:621333,Infection-induced acute-onset axonal neuropathy,24,22,5.0,6.0,13.0,13,0,0,0
-RERE,OMIM:616975,"Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart",22,115,12.0,56.5,65.5,807,0,0,0
-RNU2-2,OMIM:621304,Developmental and epileptic encephalopathy 119,22,180,25.0,22.0,49.5,20,0,0,0
-RNU4-2,OMIM:620851,ReNU syndrome,61,210,25.0,139.0,166.0,11871,36,35,1
-ROR2,OMIM:268310,"Robinow syndrome, autosomal recessive 1",32,81,28.0,21.5,55.0,755,0,0,0
-RPGRIP1,OMIM:608194,Cone-rod dystrophy 13,21,22,7.0,5.0,13.0,0,0,0,0
-RPGRIP1,OMIM:613826,Leber congenital amaurosis 6,79,40,6.0,2.0,9.0,20,0,0,0
-SAMD9L,OMIM:159550,Ataxia-pancytopenia syndrome,21,28,7.0,1.0,7.0,0,0,0,0
-SATB2,OMIM:612313,Glass syndrome,157,11,6.0,3.0,9.0,35,0,0,0
-SCO2,OMIM:604377,"Mitochondrial complex IV deficiency, nuclear type 2",31,103,10.0,0.0,12.0,0,0,0,0
-SETD2,OMIM:616831,Luscan-Lumish syndrome,29,87,8.0,23.0,33.0,43,0,0,0
+LMNA,OMIM:151660,"Lipodystrophy, familial partial, type 2",127,60,9.0,8.0,16.0,91,6,5,1
 SF3B4,OMIM:154400,"Acrofacial dysostosis 1, Nager type",25,41,8.0,6.0,15.0,6,0,0,0
-SLC32A1,OMIM:620755,"Generalized epilepsy with febrile seizures plus, type 12",32,9,2.5,6.5,9.0,26,0,0,0
-SLC45A2,OMIM:606574,"Albinism, oculocutaneous, type IV",30,16,11.0,3.0,13.5,41,0,0,0
-SMAD3,OMIM:613795,Loeys-Dietz syndrome 3,56,60,7.5,10.0,16.0,151,1,1,0
-SMARCB1,OMIM:614608,Coffin-Siris syndrome 3,22,124,24.0,25.0,54.5,0,0,0,0
-SNUPN,OMIM:620793,"Muscular dystrophy, limb-girdle, autosomal recessive 29",23,41,13.0,6.0,20.0,8,0,0,0
-SOCS1,OMIM:619375,"Autoinflammatory syndrome, familial, with or without immunodeficiency",20,46,6.0,8.5,14.5,0,0,0,0
-SON,OMIM:617140,ZTTK syndrome,64,354,23.0,70.0,96.0,2788,11,10,1
-SOX17,OMIM:621248,"Pulmonary hypertension, primary, 7",45,46,5.0,4.0,9.0,6,0,0,0
+FBN1,OMIM:154700,Marfan syndrome,50,43,8.0,16.0,26.0,301,1,1,0
+SAMD9L,OMIM:159550,Ataxia-pancytopenia syndrome,21,28,7.0,1.0,7.0,0,0,0,0
+UMOD,OMIM:162000,"Tubulointerstitial kidney disease, autosomal dominant, 1",199,30,3.0,2.0,5.0,40,2,1,1
+NF1,OMIM:162200,"Neurofibromatosis, type 1",405,36,3.0,17.0,20.0,412,27,26,1
+PTPN11,OMIM:163950,Noonan syndrome 1,25,46,7.0,16.0,25.0,24,0,0,0
+GLI3,OMIM:175700,Greig cephalopolysyndactyly syndrome,50,24,4.0,8.0,11.5,21,5,2,3
+LMNA,OMIM:181350,"Emery-Dreifuss muscular dystrophy 2, autosomal dominant",41,40,12.0,21.0,33.0,461,0,0,0
+TBX1,OMIM:188400,DiGeorge syndrome,26,26,6.0,13.0,19.0,14,0,0,0
+CYP21A2,OMIM:201910,"Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",69,27,6.0,5.0,11.0,46,0,0,0
+ITPR1,OMIM:206700,Gillespie syndrome,39,92,10.0,3.0,15.0,2,0,0,0
+AIRE,OMIM:240300,"Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia",58,48,6.0,9.5,16.5,70,0,0,0
+CLDN16,OMIM:248250,"Hypomagnesemia 3, renal",51,53,9.0,6.0,19.0,125,2,2,0
 SPINK5,OMIM:256500,Netherton syndrome,91,142,15.0,6.0,22.0,193,0,0,0
-SPOUT1,OMIM:621154,"Neurodevelopmental disorder with poor growth, seizures, and brain abnormalities",28,96,11.0,6.0,21.0,11,0,0,0
+MPV17,OMIM:256810,Mitochondrial DNA depletion syndrome 6 (hepatocerebral type),60,156,11.5,9.5,25.0,123,6,6,0
+ROR2,OMIM:268310,"Robinow syndrome, autosomal recessive 1",32,81,28.0,21.5,55.0,755,0,0,0
+SUOX,OMIM:272300,Sulfite oxidase deficiency,34,20,5.0,5.0,11.0,19,0,0,0
+KDM6A,OMIM:300867,Kabuki syndrome 2,81,87,11.0,15.0,25.0,367,0,0,0
+PIGA,OMIM:300868,Multiple congenital anomalies-hypotonia-seizures syndrome 2,21,174,16.0,0.0,16.0,0,0,0,0
+ZMYM3,OMIM:301111,"Intellectual developmental disorder, X-linked 112",33,78,8.0,49.0,57.0,1440,0,0,0
+FGD1,OMIM:305400,Aarskog-Scott syndrome,48,73,14.5,9.0,24.5,164,1,1,0
+SCO2,OMIM:604377,"Mitochondrial complex IV deficiency, nuclear type 2",31,103,10.0,0.0,12.0,0,0,0,0
+LZTR1,OMIM:605275,Noonan syndrome 2,32,94,11.5,25.0,38.5,511,0,0,0
+HMGCS2,OMIM:605911,HMG-CoA synthase-2 deficiency,40,44,8.5,2.5,15.5,17,0,0,0
+SLC45A2,OMIM:606574,"Albinism, oculocutaneous, type IV",30,16,11.0,3.0,13.5,41,0,0,0
+ITPR1,OMIM:606658,Spinocerebellar ataxia 15,27,40,11.0,9.0,22.0,6,0,0,0
+ATP13A2,OMIM:606693,Kufor-Rakeb syndrome,35,67,10.0,2.0,13.0,19,0,0,0
+RPGRIP1,OMIM:608194,Cone-rod dystrophy 13,21,22,7.0,5.0,13.0,0,0,0,0
+ASPM,OMIM:608716,"Microcephaly 5, primary, autosomal recessive",22,17,4.0,4.0,8.0,15,0,0,0
+TGFBR1,OMIM:609192,Loeys-Dietz syndrome 1,24,84,12.0,21.0,38.0,5,1,1,0
+CNTNAP2,OMIM:610042,Pitt-Hopkins like syndrome 1,46,70,8.0,31.0,41.0,187,0,0,0
+TGFBR2,OMIM:610168,Loeys-Dietz syndrome 2,53,96,10.0,13.0,26.0,144,1,1,0
+EHMT1,OMIM:610253,Kleefstra syndrome 1,125,61,9.0,44.0,54.0,1588,7,6,1
+STXBP1,OMIM:612164,Developmental and epileptic encephalopathy 4,462,514,20.0,0.0,20.0,0,0,0,0
+SATB2,OMIM:612313,Glass syndrome,157,11,6.0,3.0,9.0,35,0,0,0
+GNAS,OMIM:612463,Pseudopseudohypoparathyroidism,23,9,2.0,5.0,7.0,10,0,0,0
 SPTAN1,OMIM:613477,Developmental and epileptic encephalopathy 5,22,38,9.5,4.0,14.5,1,0,0,0
+SMAD3,OMIM:613795,Loeys-Dietz syndrome 3,56,60,7.5,10.0,16.0,151,1,1,0
+RPGRIP1,OMIM:613826,Leber congenital amaurosis 6,79,40,6.0,2.0,9.0,20,0,0,0
+NRXN1,OMIM:614332,Chromosome 2p16.3 deletion syndrome,27,106,7.0,50.0,57.0,897,0,0,0
+SMARCB1,OMIM:614608,Coffin-Siris syndrome 3,22,124,24.0,25.0,54.5,0,0,0,0
+NBAS,OMIM:614800,"Short stature, optic nerve atrophy, and Pelger-Huet anomaly",67,134,10.0,9.0,23.0,409,14,14,0
+TGFB2,OMIM:614816,Loeys-Dietz syndrome 4,35,68,6.0,12.0,21.0,96,0,0,0
+CHD8,OMIM:615032,Intellectual developmental disorder with autism and macrocephaly,78,82,8.0,18.0,30.0,499,0,0,0
+LIM2,OMIM:615277,"Cataract 19, multiple types",34,21,5.0,2.0,8.0,0,0,0,0
+FBXL4,OMIM:615471,Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type),95,90,9.0,23.0,36.0,1117,20,20,0
+CTCF,OMIM:615502,"Intellectual developmental disorder, autosomal dominant 21",46,110,12.0,93.0,105.5,5395,0,0,0
+TGFB3,OMIM:615582,Loeys-Dietz syndrome 5,68,73,5.0,14.5,20.0,1199,0,0,0
+AHDC1,OMIM:615829,Xia-Gibbs syndrome,65,186,17.0,22.0,37.0,266,0,0,0
+WWOX,OMIM:616211,Developmental and epileptic encephalopathy 28,32,66,12.0,16.0,29.0,187,0,0,0
+COQ4,OMIM:616276,"Coenzyme Q10 deficiency, primary, 7",35,77,8.0,6.0,16.0,2,0,0,0
+PPP2R1A,OMIM:616362,Houge-Janssens syndrome 2,60,50,7.0,14.5,22.5,289,1,0,1
+POGZ,OMIM:616364,White-Sutton syndrome,117,94,8.0,2.0,10.0,109,6,6,0
+SETD2,OMIM:616831,Luscan-Lumish syndrome,29,87,8.0,23.0,33.0,43,0,0,0
+IKZF1,OMIM:616873,"Immunodeficiency, common variable, 13",81,67,9.0,12.0,23.0,289,1,1,0
+TBCK,OMIM:616900,"Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",41,97,14.0,16.0,27.0,56,0,0,0
+RERE,OMIM:616975,"Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart",22,115,12.0,56.5,65.5,807,0,0,0
+SON,OMIM:617140,ZTTK syndrome,64,354,23.0,70.0,96.0,2788,11,10,1
+NKX6-2,OMIM:617560,"Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy",33,39,8.0,5.0,13.0,3,0,0,0
+GTPBP2,OMIM:617988,Jaberi-Elahi syndrome,25,134,29.0,10.0,39.0,7,1,1,0
+FBXO11,OMIM:618089,Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities,56,129,8.0,78.0,86.0,5295,0,0,0
+TRAF7,OMIM:618164,"Cardiac, facial, and digital anomalies with developmental delay",45,210,17.0,38.0,53.0,705,0,0,0
+MAPK8IP3,OMIM:618443,Neurodevelopmental disorder with or without variable brain abnormalities,20,93,10.5,45.5,57.0,0,0,0,0
+KDM6B,OMIM:618505,Stolerman neurodevelopmental syndrome,84,225,11.0,31.0,42.0,585,0,0,0
+ZNF462,OMIM:618619,Weiss-Kruszka syndrome,39,32,8.0,18.0,27.0,372,4,4,0
+AFG3L2,OMIM:618977,Optic atrophy 12,26,39,4.5,15.0,19.5,121,0,0,0
+SOCS1,OMIM:619375,"Autoinflammatory syndrome, familial, with or without immunodeficiency",20,46,6.0,8.5,14.5,0,0,0,0
+ATP6V0C,OMIM:620465,"Epilepsy, early-onset, 3, with or without developmental delay",31,83,9.0,43.0,58.0,184,0,0,0
+U2AF2,OMIM:620535,"Developmental delay, dysmorphic facies, and brain anomalies",48,179,20.0,143.5,168.0,13454,0,0,0
+KCNH5,OMIM:620537,Developmental and epileptic encephalopathy 112,27,28,6.0,11.0,19.0,67,0,0,0
 SPTAN1,OMIM:620538,"Spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia",28,25,5.0,8.5,13.0,55,1,0,1
 SPTAN1,OMIM:620540,Developmental delay with or without epilepsy,21,30,5.0,19.0,24.0,103,0,0,0
-STXBP1,OMIM:612164,Developmental and epileptic encephalopathy 4,462,514,20.0,0.0,20.0,0,0,0,0
-SUOX,OMIM:272300,Sulfite oxidase deficiency,34,20,5.0,5.0,11.0,19,0,0,0
-TBCK,OMIM:616900,"Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",41,97,14.0,16.0,27.0,56,0,0,0
-TBX1,OMIM:188400,DiGeorge syndrome,26,26,6.0,13.0,19.0,14,0,0,0
-TBX5,OMIM:142900,Holt-Oram syndrome,150,89,4.0,12.0,17.0,179,2,2,0
-TGFB2,OMIM:614816,Loeys-Dietz syndrome 4,35,68,6.0,12.0,21.0,96,0,0,0
-TGFB3,OMIM:615582,Loeys-Dietz syndrome 5,68,73,5.0,14.5,20.0,1199,0,0,0
-TGFBR1,OMIM:609192,Loeys-Dietz syndrome 1,24,84,12.0,21.0,38.0,5,1,1,0
-TGFBR2,OMIM:610168,Loeys-Dietz syndrome 2,53,96,10.0,13.0,26.0,144,1,1,0
+NHLRC1,OMIM:620681,Myoclonic epilepsy of Lafora 2,22,11,5.0,4.0,10.0,15,1,1,0
+FZD5,OMIM:620731,Microphthalmia/coloboma 11,29,16,2.0,6.0,8.0,3,0,0,0
+SLC32A1,OMIM:620755,"Generalized epilepsy with febrile seizures plus, type 12",32,9,2.5,6.5,9.0,26,0,0,0
+ACBD6,OMIM:620785,Neurodevelopmental disorder with progressive movement abnormalities,45,79,15.0,54.0,73.0,2520,4,4,0
+SNUPN,OMIM:620793,"Muscular dystrophy, limb-girdle, autosomal recessive 29",23,41,13.0,6.0,20.0,8,0,0,0
+RNU4-2,OMIM:620851,ReNU syndrome,61,210,25.0,139.0,166.0,11871,36,35,1
+FDXR,OMIM:620887,Multiple mitochondrial dysfunctions syndrome 9B,41,193,13.0,4.0,18.0,1,0,0,0
+NEK8,OMIM:620903,Polycystic kidney disease 8,20,13,5.0,2.0,7.0,3,2,1,1
+RAB32,OMIM:620923,"Parkinson disease 26, autosomal dominant, susceptibility to",38,41,5.0,0.0,6.0,0,0,0,0
+NFU1,OMIM:620938,"Spastic paraplegia 93, autosomal recessive",21,43,8.0,11.0,18.0,6,0,0,0
+MSL2,OMIM:620985,Karayol-Borroto-Haghshenas neurodevelopmental syndrome,28,122,10.0,33.5,44.0,526,1,1,0
 TMEM216,OMIM:620996,Retinitis pigmentosa 98,62,19,5.0,4.0,9.0,6,0,0,0
-TRAF7,OMIM:618164,"Cardiac, facial, and digital anomalies with developmental delay",45,210,17.0,38.0,53.0,705,0,0,0
+FLVCR1,OMIM:621060,"Neurodevelopmental disorder with microcephaly, absent speech, and hypotonia",30,65,6.0,8.5,15.0,78,0,0,0
+SPOUT1,OMIM:621154,"Neurodevelopmental disorder with poor growth, seizures, and brain abnormalities",28,96,11.0,6.0,21.0,11,0,0,0
+IFT140,OMIM:621164,"Polycystic kidney disease 9, susceptibility to",75,15,3.0,5.0,8.0,24,2,1,1
+PPP2R5C,OMIM:621185,Houge-Janssens syndrome 4,27,115,11.0,57.0,71.0,944,0,0,0
+MED16,OMIM:621220,Guillouet-Gordon syndrome,25,190,20.0,63.0,88.0,381,0,0,0
 TUBA4A,OMIM:621226,"Spastic ataxia 11, autosomal dominant",24,38,11.0,11.0,22.0,35,1,1,0
-U2AF2,OMIM:620535,"Developmental delay, dysmorphic facies, and brain anomalies",48,179,20.0,143.5,168.0,13454,0,0,0
+SOX17,OMIM:621248,"Pulmonary hypertension, primary, 7",45,46,5.0,4.0,9.0,6,0,0,0
+MARK2,OMIM:621285,"Intellectual developmental disorder, autosomal dominant 76",31,82,8.0,38.0,45.0,757,0,0,0
+NOTCH3,OMIM:621295,"Cerebral arteriopathy, autosomal recessive, with subcortical infarcts and leukoencephalopathy 1",27,150,12.0,34.0,49.0,7,0,0,0
+RNU2-2,OMIM:621304,Developmental and epileptic encephalopathy 119,22,180,25.0,22.0,49.5,20,0,0,0
+RCC1,OMIM:621333,Infection-induced acute-onset axonal neuropathy,24,22,5.0,6.0,13.0,13,0,0,0
+INPP4A,OMIM:621354,"Neurodevelopmental disorder with growth impairment, quadriparesis, and poor or absent speech",30,128,18.0,20.0,43.5,102,17,17,0
 UBR5,OMIM:621372,Neurodevelopmental disorder with speech delay and behavioral abnormalities,29,61,7.0,9.0,16.0,31,0,0,0
-UMOD,OMIM:162000,"Tubulointerstitial kidney disease, autosomal dominant, 1",199,30,3.0,2.0,5.0,40,2,1,1
-WWOX,OMIM:616211,Developmental and epileptic encephalopathy 28,32,66,12.0,16.0,29.0,187,0,0,0
-ZMYM3,OMIM:301111,"Intellectual developmental disorder, X-linked 112",33,78,8.0,49.0,57.0,1440,0,0,0
-ZNF462,OMIM:618619,Weiss-Kruszka syndrome,39,32,8.0,18.0,27.0,372,4,4,0
+LRRC7,OMIM:621415,"Intellectual developmental disorder, autosomal dominant 77",31,159,13.0,25.0,40.0,0,0,0,0
+PTBP1,OMIM:621495,STAD syndrome,27,145,12.0,52.0,65.0,1550,0,0,0
+EPG5,OMIM:621506,Neurodevelopmental disorder with parkinsonism or other movement abnormalities,22,76,15.0,19.0,34.0,5,2,2,0
+RAB3A,OMIM:621535,Spinocerebellar ataxia 52,33,68,10.0,12.0,22.0,7,0,0,0
+PSMC3,OMIM:621539,Ebstein-Bezieau neurodevelopmental syndrome,23,10,5.0,3.0,10.0,0,0,0,0
+CLN3,OMIM:621548,Retinitis pigmentosa 101,25,35,9.0,4.0,12.0,2,0,0,0
+MAU2,OMIM:621570,Cornelia de Lange syndrome 7,20,132,19.5,59.0,82.0,1,0,0,0

@@ -4,8 +4,8 @@ HPO release,v2026-06-23
 Minimum disease-group size,20
 Minimum pair-specific effective N,20
 FDR threshold,0.05
-Total disease groups,781
-Disease groups below size threshold,664
+Unique disease IDs in the Phenopacket Store,780
+Disease groups below size threshold,663
 Eligible disease groups,117
 Eligible groups without testable pairs,12
 Disease groups with tested pairs,105
